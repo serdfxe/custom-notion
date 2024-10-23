@@ -4,3 +4,6 @@
 [submodule "cn-back/notes-service"]
 	path = cn-back/notes-service
 	url = git@github.com:serdfxe/custom-notion-notes-service.git
+[submodule "cn-back/notification-service"]
+	path = cn-back/notification-service
+	url = git@github.com:serdfxe/custom-notion-notification-service.git
