@@ -1,3 +1,6 @@
 [submodule "cn-back/auth-service"]
 	path = cn-back/auth-service
 	url = git@github.com:serdfxe/custom-notion-auth-service.git
+[submodule "cn-back/notes-service"]
+	path = cn-back/notes-service
+	url = git@github.com:serdfxe/custom-notion-notes-service.git
