@@ -7,3 +7,6 @@
 [submodule "cn-back/notification-service"]
 	path = cn-back/notification-service
 	url = git@github.com:serdfxe/custom-notion-notification-service.git
+[submodule "cn-front"]
+	path = cn-front
+	url = git@github.com:serdfxe/custom-notion-front.git
