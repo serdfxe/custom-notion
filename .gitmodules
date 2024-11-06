@@ -10,3 +10,6 @@
 [submodule "cn-front"]
 	path = cn-front
 	url = git@github.com:serdfxe/custom-notion-front.git
+[submodule "cn-back/media-service"]
+	path = cn-back/media-service
+	url = https://github.com/serdfxe/custom-notion-media-service.git
