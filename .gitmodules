@@ -1,15 +1,18 @@
 [submodule "cn-back/auth-service"]
 	path = cn-back/auth-service
-	url = git@github.com:serdfxe/custom-notion-auth-service.git
+	url = https://github.com/serdfxe/custom-notion-auth-service
 [submodule "cn-back/notes-service"]
 	path = cn-back/notes-service
-	url = git@github.com:serdfxe/custom-notion-notes-service.git
+	url = https://github.com/serdfxe/custom-notion-notes-service
 [submodule "cn-back/notification-service"]
 	path = cn-back/notification-service
 	url = git@github.com:serdfxe/custom-notion-notification-service.git
 [submodule "cn-front"]
 	path = cn-front
-	url = git@github.com:serdfxe/custom-notion-front.git
-[submodule "cn-back/media-service"]
-	path = cn-back/media-service
-	url = https://github.com/serdfxe/custom-notion-media-service.git
+	url = https://github.com/serdfxe/cn-app
+[submodule "cn-back/reminder-service"]
+	path = cn-back/reminder-service
+	url = https://github.com/serdfxe/custom-notion-reminder-service
+[submodule "cn-back/media-service-"]
+	path = cn-back/media-service-
+	url = https://github.com/serdfxe/custom-notion-media-service
